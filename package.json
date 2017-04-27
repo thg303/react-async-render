@@ -1,5 +1,5 @@
 {
-  "name": "react-async-render",
+  "name": "@thg303/react-async-render",
   "version": "0.0.2",
   "description": "Using Redux to resolve React asynchronous rendering issue on server side",
   "main": "index.js",
