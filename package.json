@@ -25,17 +25,17 @@
   },
   "dependencies": {
     "kew": "^0.7.0",
-    "react": "^0.14.0",
+    "react": "^15.5.4",
     "react-dom": "^0.14.0",
     "react-redux": "^3.1.0",
     "redux": "^3.0.2",
     "redux-thunk": "^1.0.0"
   },
   "dependencies": {
-    "react": "^0.14.0"
+    "react": "^15.5.4"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-babel": "^5.2.1"
+    "gulp-babel": "^6.1.2"
   }
 }
