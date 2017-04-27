@@ -1,6 +1,6 @@
 {
   "name": "@thg303/react-async-render",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Using Redux to resolve React asynchronous rendering issue on server side",
   "main": "index.js",
   "scripts": {},
@@ -25,10 +25,11 @@
   },
   "dependencies": {
     "react": "^15.5.4",
+    "redux": "^3.6.0",
     "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2"
   }
 }
